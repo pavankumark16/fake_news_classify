@@ -123,4 +123,4 @@ with tab2:
 
 
 
-#streamlit run app.py 
+#for output  run this command  : "streamlit run app.py" in cmd  vth path of file. 
